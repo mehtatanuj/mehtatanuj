@@ -1,4 +1,4 @@
-![Pink and Black Internship Application LinkedIn Banner (1)](https://user-images.githubusercontent.com/69143883/126484059-8884f67e-02b1-4fd1-a1ac-f304e97a11f7.gif)
+![Pink and Black Internship Application LinkedIn Banner (2)](https://user-images.githubusercontent.com/69143883/126523425-b16b9772-6f23-42ab-808b-b827a0ce669d.gif)
 
 # <👋 Hello, World!/><br>
 # I'm Tanuj Mehta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
