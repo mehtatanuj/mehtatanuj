@@ -22,13 +22,13 @@
   <div>
    <img alt="Flutter" src="https://img.shields.io/badge/flutter-00adfe.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
    <img alt="Firebase" src="https://img.shields.io/badge/firebase-00adfe.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
-   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-00adfe.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-00adfe.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-00adfe.svg?style=for-the-badge&logo=git&logoColor=white"/>  <img alt="MySQL" src="https://img.shields.io/badge/mysql-00adfe.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-00adfe.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-00adfe.svg?style=for-the-badge&logo=git&logoColor=white"/>  <img alt="MySQL" src="https://img.shields.io/badge/mysql-00adfe.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
  </div> 
 <br>
   
  ## </> Programming Languages Known
 <div>
- <img alt="C" src="https://img.shields.io/badge/c-00adfe.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-00adfe.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;<img alt="Java" src="https://img.shields.io/badge/Java-00adfe?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Dart-00adfe?style=for-the-badge&logo=dart&logoColor=white"/></div>
+ <img alt="C" src="https://img.shields.io/badge/c-00adfe.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-00adfe.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Dart-00adfe?style=for-the-badge&logo=dart&logoColor=white"/></div>
  <br>
  
 |<img src="https://github-readme-stats.vercel.app/api?username=mehtatanuj&&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehtatanuj&theme=algolia"/>|
