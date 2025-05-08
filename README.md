@@ -9,7 +9,7 @@
 
 ## Here Is What I'm Working On!👨‍💻
 
-  💻 I’m currently learning ...<strong>Flutter</strong>
+  💻 I’m currently learning ...<strong>Rust</strong>
 
   🤔 Ask me about ...<strong>Competitive Programming</strong>
   
