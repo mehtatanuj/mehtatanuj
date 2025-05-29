@@ -3,7 +3,7 @@
 # <👋 Hello, World!/><br>
 # I'm Tanuj Mehta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 👨‍🎓I am <b>Tanuj Mehta</b>, currently embarking on my engineering journey from <b>D.Y. Patil College Of Engineering, Akurdi, Pune</b><br>
-💻I am a <b>Competitive Coder👨‍💻 and Flutter Developer📱</b> <br>
+💻I am a <b>Competitive Coder👨‍💻 and Backend Developer📱</b> <br>
 
 
 
