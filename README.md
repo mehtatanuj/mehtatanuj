@@ -54,24 +54,8 @@ I’m a backend engineer who focuses on **building scalable, reliable, and high-
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript"/>
 </p>
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehtatanuj&show_icons=true&theme=algolia&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehtatanuj&theme=algolia&hide_border=true" height="160"/>
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtatanuj&layout=compact&theme=algolia&hide_border=true"/>
-</p>
-
----
 
 ## 🧠 Competitive Programming
 
