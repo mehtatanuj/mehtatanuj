@@ -1,84 +1,100 @@
+# 👋 Hello, World!
 
+## I'm **Tanuj Mehta**
 
-# <👋 Hello, World!/><br>
-# I'm **Tanuj Mehta** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-💼 **Senior Backend Engineer | Rust 🦀 | Python 🐍 | Distributed Systems**  
-📍 Gurugram, India  
-💻 **Backend Developer 👨‍💻 | Competitive Coder | System Design**
+**Senior Backend Engineer**  
+Rust 🦀 • Python 🐍 • Distributed Systems • System Design  
+📍 Gurugram, India
 
 ---
 
 ## 👨‍💻 About Me
 
-👨‍🎓 Bachelor of Engineering — **D.Y. Patil College Of Engineering, Pune**  
-⚙️ Backend engineer focused on **high-performance & scalable systems**  
-🚀 Experience in **Fintech, HealthTech & AI platforms**  
-🧠 Strong in **System Design, Microservices & Event-Driven Architecture**
+I’m a backend engineer who focuses on **building scalable, reliable, and high-performance systems**.
+
+- 🎓 Bachelor of Engineering — **D. Y. Patil College of Engineering, Pune**
+- ⚙️ Strong background in **backend architecture & system design**
+- 🚀 Experience building **Fintech, HealthTech & AI platforms**
+- 🧠 Comfortable designing **microservices & event-driven systems**
+- ✅ Production mindset: performance, correctness, observability, uptime
 
 ---
 
-## Here Is What I'm Working On! 👨‍💻
+## 🔨 What I’m Working On
 
-💻 Building **production-grade backend & AI systems**  
-🦀 Working with **Rust (Actix Web)** for performance-critical services  
-🐍 Developing APIs using **Python (FastAPI)**  
-☁️ Designing **AWS Lambda & cloud-native architectures**  
-🤔 Ask me about **Backend, Rust, System Design, APIs**  
-👦 Pronouns: **He / Him**
-
-<br>
-
-## ⚒ Languages and Tools
-<div>
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-00adfe.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-00adfe.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-00adfe.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-00adfe.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-00adfe.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-00adfe.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-00adfe.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-00adfe.svg?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
-
-<br>
-
-## </> Programming Languages Known
-<div>
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-00adfe.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-00adfe.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00adfe.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-00adfe.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
-</div>
-
-<br>
-
-| GitHub Stats | Streak |
-|---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=mehtatanuj&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehtatanuj&theme=algolia"/> |
+- Building **production-grade backend & AI systems**
+- Developing **high-performance services in Rust (Actix Web)**
+- Designing **clean, scalable APIs using Python (FastAPI)**
+- Architecting **AWS Lambda & cloud-native solutions**
+- Open to discussions on **Backend, Rust, System Design & APIs**
 
 ---
 
-## Most Used Languages 💻
+## 🛠️ Languages & Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehtatanuj&layout=compact&theme=algolia)](https://github.com/mehtatanuj)
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust"/>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazon-aws"/>
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis"/>
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git"/>
+</p>
 
 ---
 
-## Coding Platforms
-<img src="https://img.shields.io/badge/LeetCode-00adfe?style=for-the-badge&logo=LeetCode&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodeChef-00adfe?style=for-the-badge&logo=CodeChef&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerRank-00adfe?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-<img src="https://img.shields.io/badge/GeekForGeeks-00adfe?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/>
+## </> Programming Languages
 
-<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust"/>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript"/>
+</p>
 
-## 🤝 Connect With Me:
-<div align="left">
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehtatanuj&show_icons=true&theme=algolia&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehtatanuj&theme=algolia&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtatanuj&layout=compact&theme=algolia&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Competitive Programming
+
+Active problem solver on:
+- **LeetCode**
+- **CodeChef**
+- **HackerRank**
+- **GeeksforGeeks**
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/mehta-tanuj/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-00adfe.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/mehtatanuj" target="_blank">
-    <img src="https://img.shields.io/badge/github-00adfe.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
   </a>
-</div>
+</p>
+
+---
+
+> *I don’t chase trends.  
+> I build systems that last.*
